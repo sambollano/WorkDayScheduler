@@ -1,11 +1,17 @@
 # WorkDayScheduler
 We Are Making a Work Day Scheduler
 
-Codes Used: .css .html .js
+## Purpose
+We Are Making a Task to do list.
 
-ScreenShot:
-https://github.com/sambollano/WorkDayScheduler/blob/main/code-snapshot.png
+## Built With
+* HTML
+* CSS
+* JS
 
+## Website
 
-©2020 by WorkDayScheduler
+## Contribution
+Made with ❤️ by Samantha Arellano
 
+### ©2020 by WorkDayScheduler
